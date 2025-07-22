@@ -1,0 +1,3 @@
+export const CDN_URL = "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/RX_THUMBNAIL/IMAGES/VENDOR/2024/12/31/5e9e20cb-beda-4202-a389-a372af1190a4_1019000.jpg";
+
+export const LOGO_URL = "https://imgs.search.brave.com/dMDq6WdmoYxIjTVKUS_Fga-JfgjKobI33c_JS9zB-iQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS12ZWN0/b3IvZ29vZC1mb29k/LWxvZ28tZGVzaWdu/Xzc5MTY5LTEwLmpw/Zz9zZW10PWFpc19o/eWJyaWQmdz03NDA";
